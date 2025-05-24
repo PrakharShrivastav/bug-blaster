@@ -7,8 +7,8 @@ export default function TicketForm({ dispatch }) {
 
   const priorityLabels = {
     1: "Low",
-    2: "High",
-    3: "Medium",
+    2: "Medium",
+    3: "High",
   };
 
   const clearForm = () => {
